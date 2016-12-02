@@ -1,3 +1,7 @@
+Forked.
+Added configuration attribute so object with options and functions can be added.
+Ambition for near future - auto updating figures sizes.
+
 # angular-d3plus
 
 Angular directive for d3plus charts
